@@ -9,11 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const usuarios = JSON.parse(localStorage.getItem('usuarios'));
     const usuario = usuarios.find(u => u.id == userId);
 
-    if (!usuario) {
-        alert('Usuario no encontrado.');
-        window.location.href = 'usuarios.html';
-        return;
-    }
     if (document.getElementById('perfilUsuario')) {
         document.getElementById('perfilUsuario').innerHTML = `
             <div class="card mb-4 shadow-sm">
