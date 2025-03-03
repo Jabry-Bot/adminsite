@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Propiedades CSS",
+        "contenido": "Aprende a utilizar las propiedades CSS para dar estilo a tus páginas web.",
+        "fecha": "2023-10-01",
+        "bloqueado": false,
+        "url": "/pubs/pub0.html"
+    },
+    {
+        "id": 2,
+        "titulo": "Filtros CSS",
+        "contenido": "Descubre cómo aplicar filtros CSS para efectos visuales impresionantes.",
+        "fecha": "2023-10-02",
+        "bloqueado": false,
+        "url": "/pubs/pub1.html"
+    },
+    {
+        "id": 3,
+        "titulo": "Formato de Imágenes",
+        "contenido": "Guía sobre los diferentes formatos de imágenes y cuándo utilizarlos.",
+        "fecha": "2023-10-03",
+        "bloqueado": false,
+        "url": "/pubs/pub2.html"
+    }
+]

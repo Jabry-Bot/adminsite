@@ -1,0 +1,137 @@
+[
+    {
+        "nombre": "Juan",
+        "apellidos": "Pérez",
+        "correo": "juan.perez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1985-05-15",
+        "pais_residencia": "España",
+        "contraseña": "juan1234"
+    },
+    {
+        "nombre": "María",
+        "apellidos": "García",
+        "correo": "maria.garcia@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1992-07-22",
+        "pais_residencia": "España",
+        "contraseña": "maria1234"
+    },
+    {
+        "nombre": "Carlos",
+        "apellidos": "Sánchez",
+        "correo": "carlos.sanchez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1988-11-30",
+        "pais_residencia": "España",
+        "contraseña": "carlos1234"
+    },
+    {
+        "nombre": "Ana",
+        "apellidos": "Martínez",
+        "correo": "ana.martinez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1990-03-12",
+        "pais_residencia": "España",
+        "contraseña": "ana1234"
+    },
+    {
+        "nombre": "Luis",
+        "apellidos": "Rodríguez",
+        "correo": "luis.rodriguez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1983-09-25",
+        "pais_residencia": "España",
+        "contraseña": "luis1234"
+    },
+    {
+        "nombre": "Elena",
+        "apellidos": "López",
+        "correo": "elena.lopez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1995-02-18",
+        "pais_residencia": "España",
+        "contraseña": "elena1234"
+    },
+    {
+        "nombre": "Miguel",
+        "apellidos": "Hernández",
+        "correo": "miguel.hernandez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1987-06-05",
+        "pais_residencia": "España",
+        "contraseña": "miguel1234"
+    },
+    {
+        "nombre": "Laura",
+        "apellidos": "González",
+        "correo": "laura.gonzalez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1991-12-10",
+        "pais_residencia": "España",
+        "contraseña": "laura1234"
+    },
+    {
+        "nombre": "David",
+        "apellidos": "Fernández",
+        "correo": "david.fernandez@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1989-04-20",
+        "pais_residencia": "España",
+        "contraseña": "david1234"
+    },
+    {
+        "nombre": "Sara",
+        "apellidos": "Ruiz",
+        "correo": "sara.ruiz@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1990-01-01",
+        "pais_residencia": "España",
+        "contraseña": "sara1234"
+    },
+    {
+        "nombre": "Javier",
+        "apellidos": "Díaz",
+        "correo": "javier.diaz@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1986-08-14",
+        "pais_residencia": "España",
+        "contraseña": "javier1234"
+    },
+    {
+        "nombre": "Carmen",
+        "apellidos": "Moreno",
+        "correo": "carmen.moreno@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1993-10-28",
+        "pais_residencia": "España",
+        "contraseña": "carmen1234"
+    },
+    {
+        "nombre": "Antonio",
+        "apellidos": "Muñoz",
+        "correo": "antonio.munoz@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1984-12-03",
+        "pais_residencia": "España",
+        "contraseña": "antonio1234"
+    },
+    {
+        "nombre": "Isabel",
+        "apellidos": "Romero",
+        "correo": "isabel.romero@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1994-11-17",
+        "pais_residencia": "España",
+        "contraseña": "isabel1234"
+    },
+    {
+        "nombre": "Pedro",
+        "apellidos": "Alonso",
+        "correo": "pedro.alonso@example.com",
+        "bloqueado": false,
+        "fecha_nacimiento": "1982-01-29",
+        "pais_residencia": "España",
+        "contraseña": "pedro1234"
+    }
+]
